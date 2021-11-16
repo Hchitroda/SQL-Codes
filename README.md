@@ -1,1 +1,1 @@
-The repository contains all my SQL Codes. 
+This repository contains all my SQL Codes. 
